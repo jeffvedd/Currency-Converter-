@@ -6,7 +6,7 @@ export default function AssetExample() {
       <Text style={styles.paragraph}>
         Local files and assets can be imported by dragging and dropping them into the editor
       </Text>
-      <Image style={styles.logo} source={require('../assets/conversordemoedas.png')} />
+      <Image style={styles.logo} source={require('../assets/currencyconverter.png')} />
     </View>
   );
 }
