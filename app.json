@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Currency Converter",
-    "slug": "currency-converter",
+    "slug": "conversor-de-moedas",
     "version": "1.0.2",
     "platforms": [
       "ios",
